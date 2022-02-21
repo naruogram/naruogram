@@ -5,7 +5,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshiki20010524&theme=vue&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiki20010524)
 
 
 <p align="left"> 
