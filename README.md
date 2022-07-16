@@ -1,42 +1,40 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yoshiki Naruo
+=====================================================================================================================================
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naruogram&show_icons=true&theme=radical&count_private=true)
+Mobile Application Engineer
+---------------------------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naruogram&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+Representative of Tech.Uni
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naruogram&theme=vue&count_private=true)
+* 🌍  I'm based in Osala
+* 🖥️  See my portfolio at [カフェの時間](http://qiita.com/naruogram/items/427b9b4fbc1b0aabc644)
+* ✉️  You can contact me at [yoshiki20010524@gmail.com](mailto:yoshiki20010524@gmail.com)
+* 🧠  I'm learning Swift and Flutter
+* ⚡  Sauna🔥
 
+### Skills
 
-
-<p align="left"> 
-  <a href="https://github.com/naruogram/naruogram/">
-    <img src="https://komarev.com/ghpvc/?username=yoshiki" alt="yoshiki" />
-  </a>
-  <a href="http://twitter.com/naruogram">
-    <img height="20" src="https://img.shields.io/twitter/follow/yoshikigram?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/naruogram">
-    <img height="20" src="https://img.shields.io/github/followers/yoshiki20010524?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/naruogram">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/naruogram/posts.svg" />
-  </a>
-  <//qiita.com/naruogram">
+<p align="left">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
-  
-  
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<!--
-**naruogram/naruogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://www.github.com/naruogram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/naruogram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/naruogram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/naruogram"><img src="https://github-readme-stats.vercel.app/api?username=naruogram&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="naruogram's GitHub stats" /></a>
+
+<a href="http://www.github.com/naruogram"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naruogram&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/naruogram"><img src="https://activity-graph.herokuapp.com/graph?username=naruogram&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/naruogram" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naruogram&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
