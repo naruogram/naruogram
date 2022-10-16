@@ -7,7 +7,6 @@ Mobile Application Engineer
 Representative of Tech.Uni
 
 * 🌍  I'm based in Osaka
-* 🖥️  See my portfolio at [カフェの時間](http://qiita.com/naruogram/items/427b9b4fbc1b0aabc644)
 * ✉️  You can contact me at [yoshiki20010524@gmail.com](mailto:yoshiki20010524@gmail.com)
 * 🧠  I'm learning Swift and Flutter
 * ⚡  Sauna🔥
