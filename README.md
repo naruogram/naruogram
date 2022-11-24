@@ -1,16 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yoshiki Naruo
 =====================================================================================================================================
 
-Mobile Application Engineer
----------------------------
-
-Representative of Tech.Uni
-
-* 🌍  I'm based in Osaka
-* ✉️  You can contact me at [yoshiki20010524@gmail.com](mailto:yoshiki20010524@gmail.com)
-* 🧠  I'm learning Swift and Flutter
-* ⚡  Sauna🔥
-
 ### Skills
 
 <p align="left">
